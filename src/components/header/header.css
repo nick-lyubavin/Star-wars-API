@@ -1,0 +1,11 @@
+.header {
+    display: flex;   
+}
+
+.header ul {
+    display: flex;    
+    align-items: center;
+
+    margin-left: 150px;
+    
+}
